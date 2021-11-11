@@ -48,6 +48,21 @@
     <ClCompile Include="47.c">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="64.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="91.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
