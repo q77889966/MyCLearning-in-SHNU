@@ -18,49 +18,8 @@
     <ClCompile Include="32.c">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="闰年.c">
+    <ClCompile Include="33.c">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="42.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="温度转换.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="45.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="22.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="41.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\23041\Downloads\33.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="45.2.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="60.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="47.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="64.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="71.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="46.c">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="resource.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
