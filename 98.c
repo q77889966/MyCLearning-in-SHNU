@@ -7,7 +7,7 @@ int main(){
         aws[j]=0;
     }
     for(i=0;i<=19;i++){
-    scanf("%d",&a[i]);   
+    scanf_s("%d",&a[i]);   
     
     
     if(a[i]<150){
