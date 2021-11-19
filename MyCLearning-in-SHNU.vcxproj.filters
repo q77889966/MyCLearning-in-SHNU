@@ -66,6 +66,27 @@
     <ClCompile Include="93.c">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="153.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="154.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="class.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="156.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="163.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="164.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
