@@ -1,18 +1,19 @@
 #include <stdio.h>
 int main()
 {
-	int i, j, sum;
-	for (i = 1; i < 500; i++)
+	int i, j, s, k, n;
+	for (n = 0, i = 1; i < 250; i++) 
 	{
-		sum = 0;
-		for (j = i; j < 500; j++)
-		{
-			sum += j;
-			if (sum == 500)
-			{
-				printf("500=%d+...+%d\n", i, j); 
-			}
+	for (s = 0, j = i; s < 500; j++)
+		s += j;
+		if(s == 500)
+	{ 
+		for (k = i; k < j; k++)
+			printf("%d ", k); 
+		printf("\n");
+	
 		}
+
 	}
-	return 0;
+return 0;
 }
